@@ -1,0 +1,23 @@
+.headertop {
+  background-color: rgba(0, 0, 255, 0.788);
+  padding: 10px 0;
+  color: #fff;
+  margin-bottom: 20px;
+}
+.headertop__gr {
+  display: flex;
+  justify-content: space-between;
+}
+.headertop__lang {
+  display: flex;
+}
+.headerto__phones {
+  display: flex;
+}
+.headerto__phone {
+  color: #fff;
+  margin-right: 40px;
+}
+.headertop__add {
+  margin-left: 40px;
+}

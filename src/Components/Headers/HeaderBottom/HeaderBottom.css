@@ -1,0 +1,29 @@
+.nav__list {
+  display: flex;
+}
+.nav__item {
+  margin-left: 50px;
+}
+.nav__item:nth-child(1) {
+  margin-left: 0;
+}
+.nav__link {
+  color: #aaa;
+  transition: color 0.2s ease;
+  font-weight: 600;
+}
+.nav__link:hover {
+  color: #000;
+}
+.links {
+  margin-top: 40px;
+}
+.active {
+  color: #000;
+}
+.links__link {
+  color: rgba(0, 0, 255, 0.486);
+}
+.fa-chevron-right {
+  font-size: 12px;
+}
